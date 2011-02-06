@@ -1,3 +1,4 @@
 This CGI script will find the two-way intersection between all of the Wikipedia categories given as URL parameters.
 
-For example: http://www.foo.com/wiki-intersect.pl?Linux_games&Dreamcast_games
+For example: http://csclub.uwaterloo.ca/~rcfox/wiki-intersect.pl?Linux_games&Dreamcast_games&Quake
+
